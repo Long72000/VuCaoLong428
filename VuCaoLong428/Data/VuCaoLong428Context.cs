@@ -15,5 +15,7 @@ namespace VuCaoLong428.Data
         }
 
         public DbSet<VuCaoLong428.Models.VCL428> VCL428 { get; set; }
+
+        public DbSet<VuCaoLong428.Models.VCL0428> VCL0428 { get; set; }
     }
 }

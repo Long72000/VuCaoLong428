@@ -1,0 +1,41 @@
+﻿@model IEnumerable<VuCaoLong428.Models.VCL0428>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên
+            </th>
+            <th>
+               giới tính 
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VCLName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VCLGender)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VCLId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VCLId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VCLId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

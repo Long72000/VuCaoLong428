@@ -149,3 +149,8 @@ C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\De
 C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\Debug\net5.0\Razor\Views\VCL428\Details.cshtml.g.cs
 C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\Debug\net5.0\Razor\Views\VCL428\Edit.cshtml.g.cs
 C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\Debug\net5.0\Razor\Views\VCL428\Index.cshtml.g.cs
+C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\Debug\net5.0\Razor\Views\VCL0428\Create.cshtml.g.cs
+C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\Debug\net5.0\Razor\Views\VCL0428\Delete.cshtml.g.cs
+C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\Debug\net5.0\Razor\Views\VCL0428\Details.cshtml.g.cs
+C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\Debug\net5.0\Razor\Views\VCL0428\Edit.cshtml.g.cs
+C:\Users\caolo\OneDrive\Máy tính\VuCaoLong428\VuCaoLong428\VuCaoLong428\obj\Debug\net5.0\Razor\Views\VCL0428\Index.cshtml.g.cs
